@@ -199,7 +199,7 @@ def _define_body():
                      vertical_align=ptg.VerticalAlignment.TOP)
     win.lazy_add(
         ptg.Splitter("[bold !gradient(212)]NAME", "[bold !gradient(212)]PRICE",
-                     "[bold !gradient(212)]1h%", "[bold !gradient(212)]24%",
+                     "[bold !gradient(212)]1h %", "[bold !gradient(212)]24h %",
                      "[bold !gradient(212)]MARKET CAP"))
     win.lazy_add("")
 
