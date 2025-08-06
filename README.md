@@ -2,7 +2,7 @@
 
 A simple **Terminal User Interface (TUI)** built with [PyTermGUI](https://github.com/bczsalba/pytermgui) to display cryptocurrency market data from [CoinMarketCap](https://coinmarketcap.com/).
 
-![screenshot](screenshot.png)
+![screenshot](screen1.png)
 
 ## ✨ Features
 
