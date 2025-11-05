@@ -13,14 +13,6 @@ A simple **Terminal User Interface (TUI)** built with [PyTermGUI](https://github
 - **Screenshot capture** (saves as SVG)  
 - **Quit confirmation modal**  
 
-## 🚧 Work in Progress
-
-> This is an early version of the project.  
-> The **auto-refresh** (real-time or delay-based) and **filters** are **not fully functional yet**.  
-> A big part of the UI logic is done, and the next steps will focus on:
-> - Implementing real-time refresh without losing TUI interactivity
-> - Making filters apply instantly
-> - Adding more statistics columns
 
 ## 📦 Installation
 
